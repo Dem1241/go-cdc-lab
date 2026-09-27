@@ -1,4 +1,4 @@
-module cdc-container
+module github.com/Dem1241/go-cdc-lab/consumer
 
 go 1.26.3
 
